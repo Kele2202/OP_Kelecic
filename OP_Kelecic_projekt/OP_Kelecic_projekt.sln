@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OP_Kelecic_projekt", "OP_Kelecic_projekt\OP_Kelecic_projekt.csproj", "{9DE8B7E9-A70B-400F-8952-82FC13E9E243}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IronPythonRemovingColors", "IronPythonRemovingColors\IronPythonRemovingColors.pyproj", "{931C6F75-5F8A-4B42-BEE3-DA6F74B6D69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE8B7E9-A70B-400F-8952-82FC13E9E243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE8B7E9-A70B-400F-8952-82FC13E9E243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE8B7E9-A70B-400F-8952-82FC13E9E243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE8B7E9-A70B-400F-8952-82FC13E9E243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931C6F75-5F8A-4B42-BEE3-DA6F74B6D69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931C6F75-5F8A-4B42-BEE3-DA6F74B6D69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD5965E-0E96-4BA0-97DF-93FAC35C2DB2}
+	EndGlobalSection
+EndGlobal
